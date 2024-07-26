@@ -43,7 +43,7 @@ Al implementar el dispositivo, se espera la reducción de problemas de salud por
 
 El prototipo presenta una solución innovadora para abordar problemáticas de salud en el ámbito laborar y de hogar.
 - A futuro
-La utilización de este proyecto a futuro  podria traer nuevas necesidades, por lo tanto se propone la implementación de un sistema de "visión por computadora". 
+- La utilización de este proyecto a futuro  podria traer nuevas necesidades, por lo tanto se propone la implementación de un sistema de "visión por computadora". 
 La visión por computadora se refiere a la capacidad de las máquinas para interpretar y comprender el entorno visual mediante el análisis de imágenes o videos.Se utiliza para el reconocimiento facial y eficiencia en un registro de asistencia.
 
 
