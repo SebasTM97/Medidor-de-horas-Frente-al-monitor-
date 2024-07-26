@@ -31,9 +31,9 @@ Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual 
 
 ## Servicios
  
-Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía. 
-Tiempo de uso: Se contabilizará el tiempo de uso del dispositivo con monitor para el usuario. 
-Base de datos: Se realizará una base de datos con la información captada. 
+1. Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía.  
+2. Tiempo de uso: Se contabilizará el tiempo de uso del dispositivo con monitor para el usuario. 
+3. Base de datos: Se realizará una base de datos con la información captada. 
 
 ## Resultados esperados
 
