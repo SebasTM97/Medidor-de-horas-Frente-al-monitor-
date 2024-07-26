@@ -1,4 +1,4 @@
-# Medidor-de-horas-Frente-al-monitor-
+# Medidor de horas Frente al monitor
 Este Repositorio muestra el proyecto del desarrollo de un dispositivo dentro de un sistema IoT, el cual premite monitorear las horas de un usuario frente al monitor.
 
 ## Introducción
@@ -11,7 +11,7 @@ El uso excesivo de computadoras y el estar expuesto a monitores por horas prolon
 
 ## Solución propuesta
 
-Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual le notifique al usuario por medio de un buffer, cuando excedió el tiempo máximo recomendado de uso de monitor.
+Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual le notifique al usuario por medio de un buffer, si es que  excedió el tiempo máximo recomendado de uso de monitor.A si mismo por medio de este dispositivo se podra generar una base de datos del tiempo transcurrido delante del monitor. 
 
 ## Objetivos específicos
 
@@ -31,16 +31,19 @@ Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual 
 
 ## Servicios
  
-1. Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía.  
+1. Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía.
 2. Tiempo de uso: Se contabilizará el tiempo de uso del dispositivo con monitor para el usuario. 
 3. Base de datos: Se realizará una base de datos con la información captada. 
 
 ## Resultados esperados
 
-Al implementar el dispositivo, se espera la reducción de problemas de salud por medio de pequeños descansos del uso del monitor y se obtendrá un histórico sobre el tiempo de exposición de la persona. 
+Al implementar el dispositivo, se espera la reducción de problemas de salud por medio de pequeños descansos del uso del monitor, a su vez se obtendrá un histórico sobre el tiempo de exposición 
 
 ## Conclusiones
 
 El prototipo presenta una solución innovadora para abordar problemáticas de salud en el ámbito laborar y de hogar.
+- A futuro
+La utilización de este proyecto a futuro  podria traer nuevas necesidades, por lo tanto se propone la implementación de un sistema de "visión por computadora". 
+La visión por computadora se refiere a la capacidad de las máquinas para interpretar y comprender el entorno visual mediante el análisis de imágenes o videos.Se utiliza para el reconocimiento facial y eficiencia en un registro de asistencia.
 
 
