@@ -31,10 +31,7 @@ Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual 
 - Led azul
 
  ## Diagrama electrónico 
-
 ![diagrama circuito](https://github.com/user-attachments/assets/ea1375ac-58ae-4c3e-b1a9-84141df4c07e)
-
-
 ## Servicios
  
 1. Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía.
@@ -51,7 +48,7 @@ El prototipo presenta una solución innovadora para abordar problemáticas de sa
 - A futuro
 - La utilización de este proyecto a futuro  podria traer nuevas necesidades, por lo tanto se propone la implementación de un sistema de "visión por computadora". 
 La visión por computadora se refiere a la capacidad de las máquinas para interpretar y comprender el entorno visual mediante el análisis de imágenes o videos.Se utiliza para el reconocimiento facial y eficiencia en un registro de asistencia.
-
+##
 Este proyecto fue realizado en el marco del curso IoT Essentials Developer impartido por [Codigo IoT ](https://www.codigoiot.com/) y organizado por la [Asociación Mexicana del Internet de las Cosas](https://www.asociacioniot.org/).
 
 
