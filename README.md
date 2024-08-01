@@ -31,7 +31,8 @@ Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual 
 - Led azul
 
  ## Diagrama electrónico 
-![diagrama circuito](https://github.com/user-attachments/assets/ea1375ac-58ae-4c3e-b1a9-84141df4c07e)
+![diagrama circuito](https://github.com/user-attachments/assets/39b510e9-92e3-40b5-a113-b8e9855ea0e3)
+
 ## Servicios
  
 1. Registro de actividad: Se registrará el inicio y el final de actividades frente al monitor con una fotografía.
