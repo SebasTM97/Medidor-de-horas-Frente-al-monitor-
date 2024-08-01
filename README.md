@@ -21,7 +21,7 @@ Con ayuda del módulo ESP32-CAM se plantea un dispositivo de monitoreo, el cual 
 
 ## Materiales necesarios
 
-- ESP32-CAM.
+- Micro ESP32 devkit v.1. 
 - Buffer 3.3V.
 - Raspberry pi 4 mo. B 8Gb ram.
 - 2 Micro push button.
